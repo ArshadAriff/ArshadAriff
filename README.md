@@ -120,7 +120,7 @@ class ArshadAriff:
 <p>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60" alt="ShadCN"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>  
-  <img src="https://img.icons8.com/color/96/000000/twilio.png" width="60" height="60" alt="Twilio"/>  
+  <img src="[https://img.icons8.com/color/96/000000/twilio.png](https://cdn.brandfetch.io/idT7wVo_zL/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)" width="60" height="60" alt="Twilio"/>  
   <img src="https://resend.com/favicon.ico" width="60" height="60" alt="Resend"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Gemini_logo.svg" width="60" height="60" alt="Gemini AI"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="60" height="60" alt="OpenAI"/>  
