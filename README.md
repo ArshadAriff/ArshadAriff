@@ -75,17 +75,17 @@ class ArshadAriff:
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frameworks  
+### 💻 Programming Languages & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
@@ -93,27 +93,50 @@ class ArshadAriff:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="60" height="60" alt="Solidity"/>
 </p>
 
-### ☁️ Cloud & DevOps  
+### ☁️ Cloud & DevOps
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60" alt="Redux Toolkit"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" alt="GCP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="60" height="60" alt="CI/CD"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60" alt="Terraform"/>
 </p>
 
-### 🗄️ Databases  
+### 🗄️ Databases & Storage
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" alt="Redis"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="60" height="60" alt="DBMS"/>
 </p>
 
-</div>
+### 🌐 Web Technologies & APIs
+<p>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60" alt="ShadCN"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind"/>
+  <img src="https://img.icons8.com/color/96/000000/twilio.png" width="60" height="60" alt="Twilio"/>
+  <img src="https://resend.com/favicon.ico" width="60" height="60" alt="Resend"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Gemini_logo.svg" width="60" height="60" alt="Gemini AI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="60" height="60" alt="OpenAI"/>
+  <img src="https://authjs.dev/img/logo.png" width="60" height="60" alt="AuthJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60" height="60" alt="JWT"/>
+  <img src="https://avatars.githubusercontent.com/u/98422467?s=200&v=4" width="60" height="60" alt="Thirdweb"/>
+</p>
 
+### ⚡ Core Competencies
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/000000/algorithm.png" width="60" height="60" alt="DSA"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/class.png" width="60" height="60" alt="OOPS"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" width="60" height="60" alt="DBMS"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/system-information.png" width="60" height="60" alt="System Design"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/windows-logo.png" width="60" height="60" alt="Operating System"/>
+</p>
 
 </div>
 
