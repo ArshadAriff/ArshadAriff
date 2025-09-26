@@ -46,7 +46,7 @@ class ArshadAriff:
         ]
 
     def fun_fact(self):
-        return "I debug faster when listening to lo-fi beats 🎧"
+        return "I debug faster when listening to podcasts 🎧"
 ```
 
 ---
@@ -116,8 +116,7 @@ class ArshadAriff:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" alt="Redis"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="60" height="60" alt="DBMS"/>
-</p>
+<img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/></p>
 
 ### 🌐 Web Technologies & APIs  
 <p>
