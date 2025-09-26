@@ -120,13 +120,7 @@ class ArshadAriff:
 <p>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60" alt="ShadCN"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>  
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-shadow-tal-revivo.png" alt="external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-shadow-tal-revivo"/> 
-  <img src="https://resend.com/favicon.ico" width="60" height="60" alt="Resend"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Gemini_logo.svg" width="60" height="60" alt="Gemini AI"/>  
-<img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>  <img src="https://authjs.dev/img/logo.png" width="60" height="60" alt="AuthJS"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60" height="60" alt="JWT"/>  
-  <img src="https://avatars.githubusercontent.com/u/98422467?s=200&v=4" width="60" height="60" alt="Thirdweb SDK"/>  
-</p>
+  <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-shadow-tal-revivo.png" alt="external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-shadow-tal-revivo"/>  
 
 ### ⚡ Core Competencies
 <p>
