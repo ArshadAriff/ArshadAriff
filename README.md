@@ -1,8 +1,7 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code,Roboto+Mono,JetBrains+Mono&size=36&duration=2800&pause=2000&center=true&vCenter=true&width=940&color=16A34A;F59E0B;EF4444;6366F1;10B981&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshad+Ariff;FullStack+Developer+%7C+Cloud+%26+AI;Passionate+about+Building+Scalable+Apps;Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code,JetBrains+Mono,Roboto+Mono&size=36&duration=2800&pause=1500&center=true&vCenter=true&width=940&color=16A34A;F59E0B;EF4444;6366F1;10B981&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshad+Ariff;FullStack+Developer+%7C+Cloud+%26+AI;Passionate+about+Building+Scalable+Apps;Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
 </div>
-
 
 
 <!-- Professional Banner -->
@@ -127,8 +126,7 @@ class ArshadAriff:
 
 ### ⚡ Core Competencies
 <p>
-  <img src="https://img.icons8.com/ios-filled/50/000000/algorithm.png" width="60" height="60" alt="DSA"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/class.png" width="60" height="60" alt="OOPS"/>
+<img width="60" height="60" src="https://img.icons8.com/ios-filled/50/linux.png" alt="linux"/>  <img src="https://img.icons8.com/ios-filled/50/000000/class.png" width="60" height="60" alt="OOPS"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" width="60" height="60" alt="DBMS"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/system-information.png" width="60" height="60" alt="System Design"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/windows-logo.png" width="60" height="60" alt="Operating System"/>
