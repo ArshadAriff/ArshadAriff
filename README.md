@@ -116,17 +116,17 @@ class ArshadAriff:
   <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="60" height="60" alt="DBMS"/>
 </p>
 
-### 🌐 Web Technologies & APIs
+### 🌐 Web Technologies & APIs  
 <p>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60" alt="ShadCN"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind"/>
-  <img src="https://img.icons8.com/color/96/000000/twilio.png" width="60" height="60" alt="Twilio"/>
-  <img src="https://resend.com/favicon.ico" width="60" height="60" alt="Resend"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Gemini_logo.svg" width="60" height="60" alt="Gemini AI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="60" height="60" alt="OpenAI"/>
-  <img src="https://authjs.dev/img/logo.png" width="60" height="60" alt="AuthJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60" height="60" alt="JWT"/>
-  <img src="https://avatars.githubusercontent.com/u/98422467?s=200&v=4" width="60" height="60" alt="Thirdweb"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60" alt="ShadCN"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>  
+  <img src="https://img.icons8.com/color/96/000000/twilio.png" width="60" height="60" alt="Twilio"/>  
+  <img src="https://resend.com/favicon.ico" width="60" height="60" alt="Resend"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Gemini_logo.svg" width="60" height="60" alt="Gemini AI"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="60" height="60" alt="OpenAI"/>  
+  <img src="https://authjs.dev/img/logo.png" width="60" height="60" alt="AuthJS"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="60" height="60" alt="JWT"/>  
+  <img src="https://avatars.githubusercontent.com/u/98422467?s=200&v=4" width="60" height="60" alt="Thirdweb SDK"/>  
 </p>
 
 ### ⚡ Core Competencies
