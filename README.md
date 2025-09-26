@@ -1,7 +1,8 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=16A34A&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshad+Ariff;FullStack+Developer+%7C+Cloud+%26+AI;Passionate+about+Building+Scalable+Apps;Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&center=true&vCenter=true&width=940&color=16A34A;F59E0B;EF4444;6366F1;10B981&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshad+Ariff;FullStack+Developer+%7C+Cloud+%26+AI;Passionate+about+Building+Scalable+Apps;Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
 </div>
+
 
 <!-- Professional Banner -->
 <div align="center">
@@ -85,7 +86,7 @@ class ArshadAriff:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="60" height="60" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
