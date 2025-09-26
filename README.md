@@ -1,7 +1,8 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code,JetBrains+Mono,Roboto+Mono&size=36&duration=2800&pause=1500&center=true&vCenter=true&width=940&color=16A34A;F59E0B;EF4444;6366F1;10B981&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshad+Ariff;FullStack+Developer+%7C+Cloud+%26+AI;Passionate+about+Building+Scalable+Apps;Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico,JetBrains+Mono,Roboto+Slab&size=36&duration=2800&pause=1500&center=true&vCenter=true&width=940&color=16A34A;F59E0B;EF4444;6366F1;10B981&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshad+Ariff;FullStack+Developer+%7C+Cloud+%26+AI;Passionate+about+Building+Scalable+Apps;Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
 </div>
+
 
 
 <!-- Professional Banner -->
