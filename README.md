@@ -123,7 +123,7 @@ class ArshadAriff:
 <p>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="60" height="60" alt="ShadCN"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>  
-  <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-shadow-tal-revivo.png" alt="external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-shadow-tal-revivo"/>  
+  <img width="60" height="60" src="https://cdn.brandfetch.io/idT7wVo_zL/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"/>  
 
 ### ⚡ Core Competencies
 <p>
