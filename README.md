@@ -140,11 +140,11 @@ class ArshadAriff:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArshadAriff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=FFFFFF
-"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadAriff&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadAriff&theme=radical&hide_border=true&background=0D1117&stroke=16A34A&ring=16A34A&fire=16A34A&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArshadAriff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadAriff&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=FFFFFF"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadAriff&theme=radical&hide_border=true&background=0D1117&stroke=16A34A&ring=16A34A&fire=16A34A&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
 ### 🟢 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Arshad003?theme=dark&font=Fira%20Code&ext=heatmap)
